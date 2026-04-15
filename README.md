@@ -1,4 +1,4 @@
-🛒 E-Commerce Backend (Spring Boot)
+**🛒 E-Commerce Backend (Spring Boot)**
 📌 Overview
 This project is a backend service for an e-commerce application built with Java Spring Boot. It provides secure authentication, product catalog management, and order handling APIs to support an online shopping platform.
 🚀 Features
@@ -88,7 +88,3 @@ mvn test
 - Cart system implementation
 - Frontend integration (React/Angular)
 
-🤝 Contributing
-Pull requests are welcome. For major changes, open an issue first to discuss what you’d like to change.
-📜 License
-MIT License
